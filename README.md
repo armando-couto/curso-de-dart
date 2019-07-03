@@ -26,5 +26,6 @@ dart Logicos.dart
 dart Loops.dart
 dart Switch.dart
 dart Variaveis.dart
-dart ReescritaM-todos.dart
+dart Reescrita-de-metodos.dart
+dart Modificadores.dart
 ```
